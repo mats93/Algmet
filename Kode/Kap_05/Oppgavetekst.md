@@ -157,9 +157,9 @@ finne ut.)
 Dersom programmet ditt fungerer helt korrekt med alle avskjæringer, så skal følgende ord gi
 antall output som beskrevet i høyre kolonne:
 
-OSLO 6 ULLA 10
-SOLO 6 ULLU 3
-LENA 24 ABBA 3
-TOTEN 54 AABBA 1
-HAMAR 36 AABBAB 4
-GJØVIK 576 MISSISSIPPI 4673 (av 39.916.800 mulige!)
+ * OSLO 6 ULLA 10
+ * SOLO 6 ULLU 3
+ * LENA 24 ABBA 3
+ * TOTEN 54 AABBA 1
+ * HAMAR 36 AABBAB 4
+ * GJØVIK 576 MISSISSIPPI 4673 (av 39.916.800 mulige!)
