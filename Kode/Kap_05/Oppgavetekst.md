@@ -37,7 +37,7 @@ Traverser så dette treet på en rekursiv postorder måte, der:
 **Hint:** Regn ut verdien til venstre subtre, og adder/multipliser dette med verdien av det
 høyre subtreet.
 
-## Oppgave 8 (kap.5) - tidligere obligatorisk oppgave nr.
+## Oppgave 8 (kap.5) - tidligere obligatorisk oppgave nr.2
 
 **Innledning:**
 Av og til kommer man over oppgaver (i aviser, blader o.l.) som går ut på å endre rekkefølgen
@@ -72,31 +72,66 @@ kun 6 permutasjoner bli skrevet ut. Disse er merket med '*' nedenfor. Forklaring
 andre ikke skrives ut er å finne i høyre kolonne:
 
 * SOLO
+
+
 SOOL |
+
+
 SLOO | Avskjæring 1a: To like vokaler etter hverandre
+
+
 SLOO |
+
+
 SOOL |
+
+
 SOLO Avskjæring 2
+
 * OSLO
 * OSOL
 * OLSO
 * OLOS
+
+
 OOSL Avskjæring 1e
+
+
 OOLS Avskjæring 1e
+
+
 LSOO Avskjæring 1a
+
+
 LSOO Avskjæring 1a
+
 * LOSO
+
+
 LOOS Avskjæring 1a
+
+
 LOSO Avskjæring 2
+
+
 LOOS Avskjæring 1a
 
 
-### OSOL |
+OSOL |
+
 
 OSLO | Avskjæring 2: 'O' har allerede vært i 1.posisjon, og disse
+
+
 OOSL | permutasjonene er allerede generert.
+
+
 OOLS |
+
+
 OLSO |
+
+
 OLOS |
 
 **Hint / tips / fremgangsmåte:**

@@ -1,6 +1,6 @@
 # Oppgavetekst
 
-## Oppgave 1 (kap.4) - tidligere obligatorisk oppgave nr.
+## Oppgave 1 (kap.4) - tidligere obligatorisk oppgave nr.1
 
 Lag et program som inneholder koden for:
 
