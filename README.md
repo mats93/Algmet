@@ -1,2 +1,3 @@
 # Algmet
-Oppgaver til faget 'Algoritmiske metoder' ved NTNU Gjøvik
+Inneholder oppgaver og dokumenter til faget 'Algoritmiske metoder' ved NTNU Gjøvik.
+
