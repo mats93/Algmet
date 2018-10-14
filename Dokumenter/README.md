@@ -2,8 +2,8 @@
 Disse dokumentene beskriver hvordan forskjellige sorterings algortimer fungerer
 
 ### Filene 'Detaljerte \*...':
- * Inneholder kode og beskrivesle av hvert steg i algoritmen.
+ * Inneholder kode og beskrivelse av stegene i algoritmen.
 
-### Fileen '...\* Utskriftbar:
+### Filene '...\* Utskriftbar':
  * Inneholder en visuell beskrivelse av hvordan algoritmen kjører.
 
